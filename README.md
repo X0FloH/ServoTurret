@@ -2,7 +2,7 @@
 
 Note: This project requires you to have some experience programming in Python.
 
-!(Images/1.png)
+![Turret](Images/1.png)
 
 # Requirements:
 -Python 3.6

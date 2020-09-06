@@ -4,6 +4,9 @@ Note: This project requires you to have some experience programming in Python.
 
 ![Turret](Images/1.PNG)
 
+# Build
+## Try to make a tripod-type turret, in which there is one servo that handles left/right rotation and one servo that handles up/down rotation
+
 # Requirements:
 -Python 3.6
 

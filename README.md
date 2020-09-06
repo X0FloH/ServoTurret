@@ -1,11 +1,12 @@
 # Face Tracking Turret
 
-Note: This project requires you to have some experience programming in Python.
+Note: This project requires you to have some experience programming in Python and experience with Raspberry Pis
 
 ![Turret](Images/1.PNG)
 
 # Build
 ## Try to make a tripod-type turret, in which there is one servo that handles left/right rotation and one servo that handles up/down rotation
+## Connect each servo's positive to a 3v3 pin and each servo's negative to a ground pin, connect their data pins to which ever free GPIO pin is available
 
 # Requirements:
 -Python 3.6
